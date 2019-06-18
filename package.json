@@ -49,7 +49,8 @@
   },
   "homepage": "https://github.com/phonegap/phonegap-plugin-barcodescanner#readme",
   "scripts": {
-    "test": "jasmine-node --color spec"
+    "test": "jasmine-node --color spec",
+    "version": "node version.js"
   },
   "devDependencies": {
     "jasmine-node": "1.14.5",
